@@ -59,6 +59,7 @@ h1{
     color:#2196F3;
 }
 .order-btn{
+    cursor: pointer;
     width: 200px;
     height: 50px;
     font-weight: 700;
